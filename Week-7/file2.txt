@@ -1,0 +1,3 @@
+Line A: First statement of file 2.
+Line B: Second statement of file 2.
+Line 3: Third statement.

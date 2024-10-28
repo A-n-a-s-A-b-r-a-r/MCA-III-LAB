@@ -1,0 +1,5 @@
+Line 1: First statement.
+Line 2: Second statement.
+Line C: Last statement of file 2.
+Line 4: Fourth statement.
+Line 5: Fifth statement.
